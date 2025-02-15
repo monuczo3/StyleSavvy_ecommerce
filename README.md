@@ -1,3 +1,5 @@
+<img width="956" alt="image" src="https://github.com/user-attachments/assets/c214e3b1-7821-4b1b-bcd7-01e13af432aa" />
+
 StyleSavvy - Home Page Description
 
 Welcome to Style Savvy, your ultimate destination for the latest in fashion and style. Our website is meticulously crafted using modern web technologies including HTML, CSS, Tailwind, and React.js to provide you with a seamless and engaging shopping experience.
@@ -5,6 +7,8 @@ Welcome to Style Savvy, your ultimate destination for the latest in fashion and 
 Key Features:
 
 Responsive Design: Our website is fully responsive, ensuring a smooth and visually appealing experience across all devices, whether you're browsing on a desktop, tablet, or smartphone.
+
+<img width="943" alt="image" src="https://github.com/user-attachments/assets/58ded706-479d-4c69-ae0b-16f8962ca913" />
 
 Dark Mode and Light Mode: With a simple click of a button, you can switch between dark mode and light mode, allowing you to customize your viewing experience according to your preference.
 
